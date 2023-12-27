@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmobile_docs=self.webpackChunkmobile_docs||[]).push([[396],{2656:e=>{e.exports=JSON.parse('{"title":"Config","description":" ","slug":"/category/config","permalink":"/docs/category/config","navigation":{"previous":{"title":"Server","permalink":"/docs/server/"},"next":{"title":"boot.config","permalink":"/docs/config/boot/"}}}')}}]);
